@@ -8,7 +8,7 @@ Summary:	Math::Bezier Perl module - solution of Bezier curves
 Summary(pl):	Modu³ Perla Math::Bezier - obliczaj±cy krzywe Beziera
 Name:		perl-Math-Bezier
 Version:	0.01
-Release:	1
+Release:	2
 License:	Artistic or GPL
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
