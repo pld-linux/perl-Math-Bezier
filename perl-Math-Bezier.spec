@@ -3,8 +3,8 @@
 %bcond_without	tests	# do not perform "make test"
 #
 %include	/usr/lib/rpm/macros.perl
-%define	pdir	Math
-%define	pnam	Bezier
+%define		pdir	Math
+%define		pnam	Bezier
 Summary:	Math::Bezier Perl module - solution of Bezier curves
 Summary(pl):	Modu³ Perla Math::Bezier - obliczaj±cy krzywe Beziera
 Name:		perl-Math-Bezier
