@@ -10,7 +10,8 @@ Summary(pl):	Modu³ Perla Math::Bezier - obliczaj±cy krzywe Beziera
 Name:		perl-Math-Bezier
 Version:	0.01
 Release:	2
-License:	Artistic or GPL
+# same as perl
+License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
 # Source0-md5:	ba6874d8754e2d64ab9c7d15e0eb56c2
