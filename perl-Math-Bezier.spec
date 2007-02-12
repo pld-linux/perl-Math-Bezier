@@ -6,7 +6,7 @@
 %define		pdir	Math
 %define		pnam	Bezier
 Summary:	Math::Bezier Perl module - solution of Bezier curves
-Summary(pl):	Modu³ Perla Math::Bezier - obliczaj±cy krzywe Beziera
+Summary(pl.UTF-8):   ModuÅ‚ Perla Math::Bezier - obliczajÄ…cy krzywe Beziera
 Name:		perl-Math-Bezier
 Version:	0.01
 Release:	3
@@ -25,8 +25,8 @@ This module implements the algorithm for the solution of Bezier curves
 as presented by Robert D. Miller in Graphics Gems V, "Quick and Simple
 Bezier Curve Drawing".
 
-%description -l pl
-Ten modu³ jest implementacj± algorytmu obliczania krzywych Beziera
+%description -l pl.UTF-8
+Ten moduÅ‚ jest implementacjÄ… algorytmu obliczania krzywych Beziera
 pokazanego przez Roberta D. Millera w Graphics Gems V "Quick and
 Simple Bezier Curve Drawing".
 
