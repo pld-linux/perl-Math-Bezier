@@ -1,10 +1,10 @@
 #
 # Conditional build:
 %bcond_without	tests	# do not perform "make test"
-#
-%include	/usr/lib/rpm/macros.perl
+
 %define		pdir	Math
 %define		pnam	Bezier
+%include	/usr/lib/rpm/macros.perl
 Summary:	Math::Bezier Perl module - solution of Bezier curves
 Summary(pl.UTF-8):	Moduł Perla Math::Bezier - obliczający krzywe Beziera
 Name:		perl-Math-Bezier
@@ -15,6 +15,7 @@ License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
 # Source0-md5:	ba6874d8754e2d64ab9c7d15e0eb56c2
+URL:		http://search.cpan.org/dist/Math-Bezier/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
 BuildArch:	noarch
