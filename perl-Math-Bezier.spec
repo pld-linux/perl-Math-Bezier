@@ -4,7 +4,6 @@
 
 %define		pdir	Math
 %define		pnam	Bezier
-%include	/usr/lib/rpm/macros.perl
 Summary:	Math::Bezier Perl module - solution of Bezier curves
 Summary(pl.UTF-8):	Moduł Perla Math::Bezier - obliczający krzywe Beziera
 Name:		perl-Math-Bezier
